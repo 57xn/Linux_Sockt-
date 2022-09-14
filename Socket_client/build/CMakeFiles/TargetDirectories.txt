@@ -1,0 +1,3 @@
+/Users/xianlu/study/cpp/Socket_client/build/CMakeFiles/main.dir
+/Users/xianlu/study/cpp/Socket_client/build/CMakeFiles/edit_cache.dir
+/Users/xianlu/study/cpp/Socket_client/build/CMakeFiles/rebuild_cache.dir
